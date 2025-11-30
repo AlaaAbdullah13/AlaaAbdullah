@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/1a/92/22/1a92228b3b88f0ddf4e05351d6d045df.jpg" width="350" style="border-radius: 12px;" />
+  <img src="https://www.freepik.com/free-ai-image/celebration-labour-day-with-3d-cartoon-portrait-working-woman_154036166.htm#fromView=search&page=1&position=46&uuid=56ce45c5-631a-421d-9cee-aa1b9e4a5725&query=Github+character+for+girls" width="350" style="border-radius: 12px;" />
 </p>
 
 ---
 
-## 💖 About Me
+## About Me
 - 🎀 ITI Trainee – **Open Source Application Development**
 - 💻 I build projects in **C++**, memory management, & system concepts  
 - 🌸 Leveling up my **Frontend** (HTML, CSS, JavaScript)
@@ -18,8 +18,6 @@
 - 💫 Love soft coding vibes & aesthetic clean designs
 
 ---
-
-## 💗 Tech Stack (Cute Icons)
 
 ### 🎀 Languages  
 <p align="left">
@@ -31,11 +29,11 @@
 </p>
 
 ### 🎀 Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
-  <img src="https://skillicons.dev/icons?i=git" width="45"/>
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+<p align="center" >
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </p>
 
 ---
@@ -48,16 +46,10 @@
 
 ---
 
-## 🌟 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlaaAbdullah13&show_icons=true&cache_seconds=60" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah&layout=compact&theme=rose_pine" />
-</p>
-
----
 
 ## 💌 Contact Me  
-📧 **alaaabdallah3336@gmail.com**  
+📧 Email:**alaaabdallah3336@gmail.com**  
+💼 LinkedIn:**www.linkedin.com/in/alaa-abdallah-fullstack133**
 
 
 <p align="center">
