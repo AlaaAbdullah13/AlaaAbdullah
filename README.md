@@ -1,11 +1,11 @@
 <h1 align="center">✨ Hi, I'm Alaa Abdullah ✨</h1>
 
 <p align="center">
-  <em>Open Source Developer | ITI Trainee | C++ & Frontend Enthusiast</em>
+  <em><b>Open Source Developer | ITI Trainee | C++ & Frontend Enthusiast</b></em>
 </p>
 
 <p align="center">
-  <img src="https://www.freepik.com/free-ai-image/celebration-labour-day-with-3d-cartoon-portrait-working-woman_154036166.htm#fromView=search&page=1&position=46&uuid=56ce45c5-631a-421d-9cee-aa1b9e4a5725&query=Github+character+for+girls" width="350" style="border-radius: 12px;" />
+  <img src="https://i.postimg.cc/zfR4bSTM/celebration_labour_day_with_3d_cartoon_portrait_working_woman.jpg" width="350" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -20,12 +20,12 @@
 ---
 
 ### 🎀 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-  <img src="https://skillicons.dev/icons?i=html" width="45"/>
-  <img src="https://skillicons.dev/icons?i=css" width="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50"/>
 </p>
 
 ### 🎀 Tools  
